@@ -2,5 +2,5 @@
     "version": "4.1.1",
     "url": "https://github.com/joshegatito/EasyAddonsInstaller/releases/download/v4.1.1/Easy.addons.installer.exe",
     "sha256": "157db368e7fe1eafa8394429b2c393031c683d36a2040f375409a9e0ea8bb71c",
-    "notas": "Fixed: the update no longer fails when the program restarts.\nChanged: the update now finishes when you reopen the program yourself.\nChanged: emoji replaced with FontAwesome icons across the interface.\nChanged: message boxes now use the dark theme and show the app icon.\nChanged: the built-in browser no longer leaves cache or cookies on disk.\nChanged: smaller download, unused Qt translations and modules removed."
+    "notas": "Fixed: maps are no longer installed as mods through the manual path.\nAdded: drag and drop a VPK onto the window to install it.\nAdded: restore and delete backups from the application.\nAdded: enable and disable mods without uninstalling them.\nFixed: uninstalling a mod in the middle made the others lose their original name."
 }
