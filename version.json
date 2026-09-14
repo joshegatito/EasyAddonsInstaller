@@ -1,6 +1,6 @@
 {
-    "version": "4.1.1",
-    "url": "https://github.com/joshegatito/EasyAddonsInstaller/releases/download/v4.1.1/Easy.addons.installer.exe",
-    "sha256": "157db368e7fe1eafa8394429b2c393031c683d36a2040f375409a9e0ea8bb71c",
+    "version": "4.1.2",
+    "url": "https://github.com/joshegatito/EasyAddonsInstaller/releases/download/v4.1.2/Easy.addons.installer.exe",
+    "sha256": "6488e5841831d4343ca325fe81cfc492597a91bc30d63d9ae6d8648c63e8a9ec",
     "notas": "Fixed: maps are no longer installed as mods through the manual path.\nAdded: drag and drop a VPK onto the window to install it.\nAdded: restore and delete backups from the application.\nAdded: enable and disable mods without uninstalling them.\nFixed: uninstalling a mod in the middle made the others lose their original name."
 }
